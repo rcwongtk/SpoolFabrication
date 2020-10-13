@@ -9,7 +9,7 @@
 /[Oo]bj/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
-/[Aa]ssets/CleanModelR3
+/[Aa]ssets/CleanModelR3.fbx
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
